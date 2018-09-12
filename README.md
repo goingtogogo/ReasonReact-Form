@@ -5,7 +5,9 @@
 Валидность формы происходит с помощью HTML5 атрибутов, таких как required, maxlength и т.д.
 ![Validation1](readme/val1.png)
 ![Validation2](readme/val2.png)
+
 Элементы и валидация формы добавляются в переменную xs
+
 ![Xs](readme/xs.png)
 
 ## Run Project
